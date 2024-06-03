@@ -231,7 +231,7 @@ facebook_link_label.place(x=810, y=4090)
 facebook_link_label.bind("<Button-1>", lambda event: open_facebook())
 
 # Create a label with a colored background that represents the Facebook link
-facebook_link_label = tk.Label(content_frame, text="03086633693\n03067148720", fg="white", bg="#5a46a7")
+facebook_link_label = tk.Label(content_frame, text="03427960776", fg="white", bg="#5a46a7")
 facebook_link_label.place(x=1050, y=4085)
 
 # Create a label with a colored background that represents the Facebook link

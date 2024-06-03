@@ -347,16 +347,12 @@ facebook_link_label.place(x=810, y=7310)
 facebook_link_label.bind("<Button-1>", lambda event: open_facebook())
 
 # Create a label with a colored background that represents the Facebook link
-facebook_link_label = tk.Label(content_frame, text="03086633693\n03067148720", fg="white", bg="#5a46a7")
+facebook_link_label = tk.Label(content_frame, text="03427960776", fg="white", bg="#5a46a7")
 facebook_link_label.place(x=1050, y=7310)
 
 # Create a label with a colored background that represents the Facebook link
 facebook_link_label = tk.Label(content_frame, text="Contact Us", fg="white", bg="#5a46a7", font=("impact", 50))
 facebook_link_label.place(x=50, y=7160)
-
-
-
-
 
 
 # Make the window fullscreen
